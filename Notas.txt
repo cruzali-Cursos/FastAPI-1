@@ -1,0 +1,7 @@
+Platzi Curso FastAPI
+16/11/2024
+
+https://platzi.com/home/clases/11190-fastapi/72033-introduccion-a-bases-de-datos-en-fastapi-con-sqlmo/
+
+
+
